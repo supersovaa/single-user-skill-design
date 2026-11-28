@@ -1,11 +1,11 @@
 ---
 name: single-user-skill-design
-description: Design, introduce, or revise skills for one user working with an AI agent. Use repository-specific information to fit the user’s workflow.
+description: Use when designing, introducing, or revising skills for one user working with an AI agent.
 ---
 
 # Single-user skill design
 
-Design the skill and its supporting files around the actual workflow of one user with an AI agent. Prefer concrete procedures. Use stable user-specific decisions, operations, and preferences where they simplify the skill or make it more predictable.
+Design the skill and its supporting files for the user’s actual workflow. When stable user-specific decisions, operations, or preferences simplify that workflow or make it more predictable, express them as concrete procedures.
 
 ## User model
 
